@@ -1,1 +1,1 @@
-# python_freindly
+# python_friendly
